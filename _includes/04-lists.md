@@ -1,0 +1,4 @@
+* basketball
+* draw
+* sing
+* fitness
